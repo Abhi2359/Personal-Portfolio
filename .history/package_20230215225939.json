@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-      "build": " npx tailwindcss -i ./tailwind.css -o ./layout/index.css -w   webpack --mode production"
+      "build": " npx tailwindcss -i ./tailwind.css -o ./layout/index.css -w ",
       
     },
     "keywords": [],
